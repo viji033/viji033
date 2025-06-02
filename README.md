@@ -1,7 +1,7 @@
 <!-- 🚀 Neon Futuristic GitHub README for Vijayakumar -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=00FFF7&size=40&center=true&vCenter=true&width=1000&lines=%F0%9F%92%A1+Hello+World!+I'm+Vijayakumar;⚡+Full+Stack+Web+Developer;🚀+React+%7C+Node+%7C+MongoDB;🎯+Building+Futuristic+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=00FFF7&size=40&center=true&vCenter=true&width=1000&lines=%F0%9F%92%A1I'm+Vijayakumar;⚡+Full+Stack+Web+Developer;🚀+React+%7C+Node+%7C+MongoDB;🎯+Building+Futuristic+Web+Experiences" />
 </h1>
 
 <h3 align="center"><img src="https://img.shields.io/badge/Futuristic%20Dev-00FFF7?style=for-the-badge&logo=github&logoColor=black" /></h3>
