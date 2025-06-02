@@ -1,8 +1,7 @@
-
-<!-- ðŸ’€ CYBERPUNK README â€” VIJAYAKUMAR -->
+<!-- 💀 CYBERPUNK README — VIJAYAKUMAR -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&color=F72585&size=35&center=true&vCenter=true&width=1000&lines=ðŸ”®+System+Online...;âš¡+IDENTIFY:+Vijayakumar;ðŸ’¾+FULL+STACK+WEB+ENGINEER;ðŸ› +REACT+%7C+NODE+%7C+MONGODB+%7C+EXPRESS" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&color=F72585&size=35&center=true&vCenter=true&width=1000&lines=🔮+System+Online...;⚡+IDENTIFY:+Vijayakumar;💾+FULL+STACK+WEB+ENGINEER;🛠+REACT+%7C+NODE+%7C+MONGODB+%7C+EXPRESS" />
 </h1>
 
 <p align="center">
@@ -11,51 +10,51 @@
 
 ---
 
-## ðŸ§¬ SYSTEM.LOG â€” `Contact Protocols`
+## 🧬 SYSTEM.LOG — `Contact Protocols`
 ```
-ðŸ“ Origin: 5/50, Church Street, Komban Kulam, Sathankulam  
-ðŸ“¡ Uplink: vijay240901@gmail.com  
-ðŸŒ Web Node: https://vijay33.netlify.app  
-ðŸ§  GitHub Mainframe: https://github.com/viji033
-```
-
----
-
-## âš™ï¸ SYSTEM.BOOT â€” `Education Logs`
-```
-ðŸ§  B.E. Computer Science â€” VV College of Engineering (2019â€“2023) | CGPA: 7.5  
-ðŸ“˜ HSC â€” 60%  
-ðŸ“˜ SSLC â€” 80%  
-ðŸ« School: Govt Hr Sec School, Kombankulam
+📍 Origin: 5/50, Church Street, Komban Kulam, Sathankulam  
+📡 Uplink: vijay240901@gmail.com  
+🌐 Web Node: https://vijay33.netlify.app  
+🧠 GitHub Mainframe: https://github.com/viji033
 ```
 
 ---
 
-## ðŸ”§ SYSTEM.EXEC â€” `Experience Module`
+## ⚙️ SYSTEM.BOOT — `Education Logs`
 ```
-ðŸ›  Full Stack Web Intern â€” Mavepizon
-
-â–¶ Built responsive and real-time full-stack web applications  
-â–¶ Tools Used: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB
+🧠 B.E. Computer Science — VV College of Engineering (2019–2023) | CGPA: 7.5  
+📘 HSC — 60%  
+📘 SSLC — 80%  
+🏫 School: Govt Hr Sec School, Kombankulam
 ```
 
 ---
 
-## ðŸ“¡ SYSTEM.LAUNCH â€” `Top Projects`
+## 🔧 SYSTEM.EXEC — `Experience Module`
+```
+🛠 Full Stack Web Intern — Mavepizon
 
-### â˜£ College ERP System  
+▶ Built responsive and real-time full-stack web applications  
+▶ Tools Used: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB
+```
+
+---
+
+## 📡 SYSTEM.LAUNCH — `Top Projects`
+
+### ☣ College ERP System  
 > Admin, Faculty, and Student login  
 > Modules: Attendance, Marks, Timetable, Notices  
 > Tech Stack: MERN
 
-### âš¡ [Cyber Portfolio (LIVE)](https://vijay33.netlify.app)  
+### ⚡ [Cyber Portfolio (LIVE)](https://vijay33.netlify.app)  
 > Futuristic design with SVG animations and scroll-lock  
 > Built with React + Netlify  
-> ðŸŒ [vijay33.netlify.app](https://vijay33.netlify.app)
+> 🌐 [vijay33.netlify.app](https://vijay33.netlify.app)
 
 ---
 
-## ðŸ§  SYSTEM.DATA â€” `Tech Stack`
+## 🧠 SYSTEM.DATA — `Tech Stack`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,python&theme=dark" />
@@ -63,22 +62,22 @@
 
 ---
 
-## ðŸ“‚ SYSTEM.CERT â€” `Certifications`
+## 📂 SYSTEM.CERT — `Certifications`
 
 ```
-âœ… Full Stack Web Development Certification  
-ðŸ§ª Hands-on MERN stack projects during intensive internship
+✅ Full Stack Web Development Certification  
+🧪 Hands-on MERN stack projects during intensive internship
 ```
 
 ---
 
-## ðŸ”® SYSTEM.TRAITS â€” `Personality Module`
+## 🔮 SYSTEM.TRAITS — `Personality Module`
 
-ðŸ§  Cyber-Creativeâ€ƒðŸ’¬ Sociableâ€ƒðŸŒˆ Optimisticâ€ƒðŸ¤ Empathic
+🧠 Cyber-Creative 💬 Sociable 🌈 Optimistic 🤝 Empathic
 
 ---
 
-## ðŸ“Š SYSTEM.STATS â€” `GitHub Metrics`
+## 📊 SYSTEM.STATS — `GitHub Metrics`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viji033&show_icons=true&theme=tokyonight&border_color=F72585" />
@@ -91,11 +90,11 @@
 
 ---
 
-## ðŸ’¡ SYSTEM.FACT â€” `Fun Module`
+## 💡 SYSTEM.FACT — `Fun Module`
 
-> â€œI donâ€™t just build websites.  
-> I sculpt **neon-illuminated interfaces** powered by pure code âš¡.â€  
-> Letâ€™s code the future. ðŸŒâœ¨
+> “I don’t just build websites.  
+> I sculpt **neon-illuminated interfaces** powered by pure code ⚡.”  
+> Let’s code the future. 🌐✨
 
 ---
 
