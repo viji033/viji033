@@ -17,6 +17,7 @@
 - 📍 **Address**: 5/50, Church Street, Komban Kulam, Sathankulam  
 - 📧 **Email**: [vijay240901@gmail.com](mailto:vijay240901@gmail.com)  
 - 🔗 **GitHub**: [github.com/viji033](https://github.com/viji033)  
+- 🌐 **Portfolio**: [vijay33.netlify.app](https://vijay33.netlify.app)
 
 ---
 
@@ -46,9 +47,10 @@ Full-stack ERP app with:
 - Attendance, marks entry, course & timetable management
 - Built with MERN stack
 
-### 🌐 Dynamic React Portfolio
+### 🌐 [Dynamic React Portfolio](https://vijay33.netlify.app/)
 - SVG header, animated transitions, and routing
 - Scroll-lock, accessible design, futuristic UI
+- Live at: [vijay33.netlify.app](https://vijay33.netlify.app)
 
 ---
 
