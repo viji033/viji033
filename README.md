@@ -1,106 +1,106 @@
-<!-- 🚀 Neon Futuristic GitHub README for Vijayakumar -->
+
+<!-- ðŸ’€ CYBERPUNK README â€” VIJAYAKUMAR -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=00FFF7&size=40&center=true&vCenter=true&width=1000&lines=%F0%9F%92%A1+Hello+World!+I'm+Vijayakumar;⚡+Full+Stack+Web+Developer;🚀+React+%7C+Node+%7C+MongoDB;🎯+Building+Futuristic+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&color=F72585&size=35&center=true&vCenter=true&width=1000&lines=ðŸ”®+System+Online...;âš¡+IDENTIFY:+Vijayakumar;ðŸ’¾+FULL+STACK+WEB+ENGINEER;ðŸ› +REACT+%7C+NODE+%7C+MONGODB+%7C+EXPRESS" />
 </h1>
 
-<h3 align="center"><img src="https://img.shields.io/badge/Futuristic%20Dev-00FFF7?style=for-the-badge&logo=github&logoColor=black" /></h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viji033&label=Profile+Views&color=00FFF7&style=flat-square" alt="viji033" />
+  <img src="https://komarev.com/ghpvc/?username=viji033&label=Hacked+Views&color=F72585&style=flat-square" alt="viji033" />
 </p>
 
 ---
 
-## 🌐 Contact Me
-
-> 📍 `5/50, Church Street, Komban Kulam, Sathankulam`  
-> 📧 [`vijay240901@gmail.com`](mailto:vijay240901@gmail.com)  
-> 🌎 [`vijay33.netlify.app`](https://vijay33.netlify.app)  
-> 🧠 [`github.com/viji033`](https://github.com/viji033)
-
----
-
-## 🧠 Education
-
-🎓 **B.E. Computer Science Engineering**  
-📍 *VV College of Engineering (2019–2023)*  
-📊 CGPA: `7.5`
-
-🏫 **HSC** – Govt Hr Sec School, Kombankulam – `60%`  
-📘 **SSLC** – Govt Hr Sec School, Kombankulam – `80%`
+## ðŸ§¬ SYSTEM.LOG â€” `Contact Protocols`
+```
+ðŸ“ Origin: 5/50, Church Street, Komban Kulam, Sathankulam  
+ðŸ“¡ Uplink: vijay240901@gmail.com  
+ðŸŒ Web Node: https://vijay33.netlify.app  
+ðŸ§  GitHub Mainframe: https://github.com/viji033
+```
 
 ---
 
-## 💼 Experience
-
-### 🛠️ Full Stack Web Development Intern — *Mavepizon*  
-🔧 Built responsive web applications  
-🌐 Hands-on experience with:
-`HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `Express`, `MongoDB`
-
----
-
-## 🚀 Projects
-
-### 🧩 College ERP System  
-- Multi-login system: Admin, Faculty, Student  
-- Attendance, timetable, internal marks, notices  
-- Tech: **MERN stack**
-
-### 🌐 [Dynamic React Portfolio](https://vijay33.netlify.app)  
-- SVG animated headers  
-- Page transitions + scroll lock  
-- Futuristic UI with accessible design
+## âš™ï¸ SYSTEM.BOOT â€” `Education Logs`
+```
+ðŸ§  B.E. Computer Science â€” VV College of Engineering (2019â€“2023) | CGPA: 7.5  
+ðŸ“˜ HSC â€” 60%  
+ðŸ“˜ SSLC â€” 80%  
+ðŸ« School: Govt Hr Sec School, Kombankulam
+```
 
 ---
 
-## 🧰 Tech Stack
+## ðŸ”§ SYSTEM.EXEC â€” `Experience Module`
+```
+ðŸ›  Full Stack Web Intern â€” Mavepizon
+
+â–¶ Built responsive and real-time full-stack web applications  
+â–¶ Tools Used: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB
+```
+
+---
+
+## ðŸ“¡ SYSTEM.LAUNCH â€” `Top Projects`
+
+### â˜£ College ERP System  
+> Admin, Faculty, and Student login  
+> Modules: Attendance, Marks, Timetable, Notices  
+> Tech Stack: MERN
+
+### âš¡ [Cyber Portfolio (LIVE)](https://vijay33.netlify.app)  
+> Futuristic design with SVG animations and scroll-lock  
+> Built with React + Netlify  
+> ðŸŒ [vijay33.netlify.app](https://vijay33.netlify.app)
+
+---
+
+## ðŸ§  SYSTEM.DATA â€” `Tech Stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,python&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,python&theme=dark" />
 </p>
 
 ---
 
-## 📜 Certifications
+## ðŸ“‚ SYSTEM.CERT â€” `Certifications`
 
-✅ **Full Stack Web Development Certification**  
-🧪 Completed project-based training & practical tasks
-
----
-
-## 🎯 Traits
-
-- 💬 Sociable  
-- 🌈 Optimistic  
-- 🤝 Empathic  
-- ✨ Passionate about futuristic designs
+```
+âœ… Full Stack Web Development Certification  
+ðŸ§ª Hands-on MERN stack projects during intensive internship
+```
 
 ---
 
-## 📊 GitHub Stats
+## ðŸ”® SYSTEM.TRAITS â€” `Personality Module`
+
+ðŸ§  Cyber-Creativeâ€ƒðŸ’¬ Sociableâ€ƒðŸŒˆ Optimisticâ€ƒðŸ¤ Empathic
+
+---
+
+## ðŸ“Š SYSTEM.STATS â€” `GitHub Metrics`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viji033&show_icons=true&theme=tokyonight&border_color=00FFF7" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viji033&layout=compact&theme=tokyonight&title_color=00FFF7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viji033&show_icons=true&theme=tokyonight&border_color=F72585" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viji033&layout=compact&theme=tokyonight&title_color=F72585" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viji033&theme=tokyonight&fire=00FFF7&currStreakLabel=00FFF7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viji033&theme=tokyonight&fire=F72585&currStreakLabel=F72585" />
 </p>
 
 ---
 
-## ✨ Fun Fact
+## ðŸ’¡ SYSTEM.FACT â€” `Fun Module`
 
-> 💡 I craft code that glows — literally. From pixel to production, I turn ideas into neon-lit reality.  
-> ⚡ Let’s build something **bold, beautiful, and blazing-fast**!
+> â€œI donâ€™t just build websites.  
+> I sculpt **neon-illuminated interfaces** powered by pure code âš¡.â€  
+> Letâ€™s code the future. ðŸŒâœ¨
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="400" />
 </p>
 
 ---
